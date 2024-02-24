@@ -4,7 +4,6 @@ def statement_generator(statement, decoration):
 
 def instructions():
     statement_generator("Instructions","-")
-
     print('''
 - Instructions 1
 - Instructions 2
